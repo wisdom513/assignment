@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(224, 224, 224);
+}
+
+body header h1 a{
+    text-decoration: none;
+    font-size: 50px;
+}
+
+ul{
+    float: right;
+    display: flex;
+    margin-top: -45px;
+    margin-right: 9px;
+    margin-left: 9px;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 40px;
+    font-size: 22px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(27, 5, 20);
+    font-family: arial;
+    font-weight: bold;
+}
+.aa{
+    background-color: whitesmoke;
+    padding-left: 20px;
+    margin-right: 900px;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+
+.search{
+    width: 120px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 21px;
+}
+
+.srch{
+    font-family: 'Times New Roman';
+    width: 150px;
+    height: 35px;
+    background: transparent;
+    margin-top: 5px;
+    color: #fff;
+}
+
+.content{
+    height: 15px;
+    margin: 50px;
+    position: relative;
+    margin-top: 70px;
+    line-height: 40px;
+    font-family: Arial;
+    font-size: 35px;
+}
+
+.content span{
+    color: #1f0a3b;
+    font-size: 90px;
+}
+
+body footer{
+   background-color: rgb(66, 97, 87);
+}
+
+.content .xx{
+    font-size: 20px;
+    color: #2f0c81;
+}
+
+.ax{
+    margin-top: 510px;
+    font-size: 17px;
+}
+
+.btn{
+    color: #1f0a3b;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+.pay .btnn{
+    font-size: 25px;
+    text-decoration: none;
+}
